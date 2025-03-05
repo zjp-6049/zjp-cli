@@ -14,7 +14,7 @@
   ],
   "author": "zjp",
   "bin": {
-    "dawei": "bin/index.js"
+    "zjp": "bin/index.js"
   },
   "files": [
     "dist",

@@ -3,7 +3,7 @@ import chalk from "chalk";
 import ora from "ora";
 
 const spinner = ora({
-  text: "dawei-cli 正在更新....",
+  text: "zjp-vite-cli 正在更新....",
   spinner: {
     interval: 300,
     frames: ["⠋", "⠙", "⠹", "⠸", "⠼", "⠴", "⠦", "⠧", "⠇", "⠏"].map((item) =>
